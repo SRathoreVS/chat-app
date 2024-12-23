@@ -1,4 +1,4 @@
 {
-  "dotenv.enableAutocloaking": true,
-  "cSpell.words": ["overselves", "Usersloading"]
+  "dotenv.enableAutocloaking": false,
+  "cSpell.words": ["mern", "overselves", "Usersloading"]
 }
